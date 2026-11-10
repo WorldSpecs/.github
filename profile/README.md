@@ -1,6 +1,28 @@
-# WorldSpecs
+<p align="center">
+  <img src="assets/worldspecs-banner.png" alt="WorldSpecs — World Soil Spectral Service" width="100%">
+</p>
 
-Code from the WorldSpecs work on global soil spectral modeling, developed by the [Geotechnologies in Soil Science group (GeoCiS)](https://esalqgeocis.wixsite.com/geocis), University of São Paulo, Brazil, and the [Soil Science Artificial Intelligence Laboratory](https://soilslab.ai), University of Florida, USA.
+<p align="center">
+  <a href="https://worldspecs.soilslab.ai"><strong>Open the platform ↗</strong></a> &nbsp; · &nbsp;
+  <a href="https://github.com/WorldSpecs/soil-mae">Explore Soil-MAE</a>
+</p>
 
-- Platform: [worldspecs.soilslab.ai](https://worldspecs.soilslab.ai)
-- [soil-mae](https://github.com/WorldSpecs/soil-mae): Soil-MAE architecture and training code (in preparation)
+## Soil spectra. Shared scientific tools.
+
+WorldSpecs brings together research software for global soil spectral modeling and the **World Soil Spectral Service**, a web platform for estimating soil properties from laboratory spectra.
+
+### Explore the work
+
+| Resource | Purpose | Availability |
+| :--- | :--- | :--- |
+| [WorldSpecs platform](https://worldspecs.soilslab.ai) | Estimate soil organic carbon, clay and sand from soil spectra. | Online service |
+| [Soil-MAE](https://github.com/WorldSpecs/soil-mae) | Masked autoencoder architecture and training code for soil spectral modeling. | Code in preparation |
+
+### Research and access
+
+The accompanying manuscript is under review. Model architecture and training code are being prepared for release; trained weights and spectral data are not distributed. Predictions are available through the platform.
+
+### A collaboration between
+
+- [Geotechnologies in Soil Science group (GeoCiS)](https://esalqgeocis.wixsite.com/geocis), Luiz de Queiroz College of Agriculture, University of São Paulo, Brazil.
+- [Soil Science Artificial Intelligence Laboratory](https://soilslab.ai), University of Florida, USA · [GitHub](https://github.com/Soil-Science-AI-Lab).
