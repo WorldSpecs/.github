@@ -26,3 +26,10 @@ The accompanying manuscript is under review. Model architecture and training cod
 
 - [Geotechnologies in Soil Science group (GeoCiS)](https://esalqgeocis.wixsite.com/geocis), Luiz de Queiroz College of Agriculture, University of São Paulo, Brazil.
 - [Soil Science Artificial Intelligence Laboratory](https://soilslab.ai), University of Florida, USA · [GitHub](https://github.com/Soil-Science-AI-Lab).
+
+### Leadership
+
+| Name | Role in WorldSpecs | Position |
+| :--- | :--- | :--- |
+| [José Alexandre Demattê](https://esalq7.wixsite.com/jamdematte) | Project Director | Full Professor, University of São Paulo (ESALQ/USP); GeoCiS |
+| [Nikolaos Tziolas](https://www.linkedin.com/in/nikostziolas/) | Technical Lead | Assistant Professor, University of Florida (UF/IFAS); Soil Science AI Lab |
