@@ -24,7 +24,7 @@ The accompanying manuscript is under review. Model architecture and training cod
 
 ### A collaboration between
 
-- [Geotechnologies in Soil Science group (GeoCiS)](https://esalqgeocis.wixsite.com/geocis), Luiz de Queiroz College of Agriculture, University of São Paulo, Brazil.
+- [Geotechnologies in Soil Science group (GeoCiS)](https://geocis.esalq.usp.br/), Luiz de Queiroz College of Agriculture, University of São Paulo, Brazil.
 - [Soil Science Artificial Intelligence Laboratory](https://soilslab.ai), University of Florida, USA · [GitHub](https://github.com/Soil-Science-AI-Lab).
 
 ### Leadership
