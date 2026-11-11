@@ -20,7 +20,7 @@ WorldSpecs is a collaborative initiative that brings together research software 
 
 ### Research and access
 
-The accompanying manuscript is under review. Model architecture and training code are being prepared for release; trained weights and spectral data are not distributed. Predictions are available through the platform.
+The accompanying manuscript is under review. Model architecture and training code are being prepared for release. No soil data or trained models are distributed through WorldSpecs: the data remain with their owners, under the data-sharing agreements made with each contributor. Predictions are available through the platform.
 
 ### A community effort
 
