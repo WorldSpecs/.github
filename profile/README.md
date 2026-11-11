@@ -9,7 +9,7 @@
 
 ## Soil spectra. Shared scientific tools.
 
-WorldSpecs brings together research software for global soil spectral modeling and the **World Soil Spectral Service**, a web platform for estimating soil properties from laboratory spectra.
+WorldSpecs is a collaborative initiative that brings together research software for global soil spectral modeling and the **World Soil Spectral Service**, a web platform for estimating soil properties from laboratory spectra.
 
 ### Explore the work
 
@@ -22,14 +22,13 @@ WorldSpecs brings together research software for global soil spectral modeling a
 
 The accompanying manuscript is under review. Model architecture and training code are being prepared for release; trained weights and spectral data are not distributed. Predictions are available through the platform.
 
-### A collaboration between
+### A community effort
 
-- [Geotechnologies in Soil Science group (GeoCiS)](https://geocis.esalq.usp.br/), Luiz de Queiroz College of Agriculture, University of São Paulo, Brazil.
-- [Soil Science Artificial Intelligence Laboratory](https://soilslab.ai), University of Florida, USA · [GitHub](https://github.com/Soil-Science-AI-Lab).
+WorldSpecs rests on a global soil spectral library assembled since 2018 from laboratory spectra and soil analyses shared by more than 150 soil scientists, laboratories and institutions, together with open soil spectral libraries. The library holds 186,148 spectral records from 109 countries, the result of many years of field sampling and laboratory work by people around the world.
 
-### Leadership
+The accompanying manuscript has 94 co-authors from institutions in 31 countries, and many other colleagues are acknowledged for their contributions. The full list of authors and contributors will be published here together with the article.
 
-| Name | Role in WorldSpecs | Position |
-| :--- | :--- | :--- |
-| [José Alexandre Melo Demattê](https://esalq7.wixsite.com/jamdematte) | Project Director | Full Professor, University of São Paulo (ESALQ/USP); GeoCiS |
-| [Nikolaos Tziolas](https://www.linkedin.com/in/nikostziolas/) | Technical Lead | Assistant Professor, University of Florida (UF/IFAS); Soil Science AI Lab |
+### Coordination
+
+- [Geotechnologies in Soil Science group (GeoCiS)](https://geocis.esalq.usp.br/), Luiz de Queiroz College of Agriculture, University of São Paulo, Brazil: coordination of the project and of the global soil spectral library.
+- [Soil Science Artificial Intelligence Laboratory](https://soilslab.ai), University of Florida, USA: model development and the WorldSpecs platform · [GitHub](https://github.com/Soil-Science-AI-Lab).
